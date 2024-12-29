@@ -30,4 +30,4 @@ This project is a console-based application written in C++ that provides essenti
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/bank-management-system.git
+   git clone https://github.com/Nouma11/bank-management-system.git
